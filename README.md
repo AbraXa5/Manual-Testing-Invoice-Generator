@@ -8,3 +8,7 @@ Applications and libraries used:
 - [JUnit5](https://github.com/junit-team/junit5)
 
 We have performed Integral testing and Junit Unit Testing in the said project, the details of which can be seen in the report
+
+Performed by:-
+Mehul N. Ingale
+Abhay S. Nikumbh
