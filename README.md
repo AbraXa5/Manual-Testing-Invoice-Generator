@@ -7,4 +7,4 @@ Applications and libraries used:
 - [Eclipse IDE](https://www.eclipse.org/downloads/packages/)
 - [JUnit4](https://github.com/junit-team/junit4)
 
-We have performed Integral testing and Junit testing in the said project, the details of which can be seen in the report
+We have performed Integral testing and Junit Unit Testing in the said project, the details of which can be seen in the report
