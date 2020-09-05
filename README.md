@@ -5,6 +5,6 @@ This project is meant to show the usage of JUnit unit testing in Java. To be abl
 
 Applications and libraries used:
 - [Eclipse IDE](https://www.eclipse.org/downloads/packages/)
-- [JUnit4](https://github.com/junit-team/junit4)
+- [JUnit5](https://github.com/junit-team/junit5)
 
 We have performed Integral testing and Junit Unit Testing in the said project, the details of which can be seen in the report
