@@ -10,5 +10,5 @@ Applications and libraries used:
 We have performed Integral testing and Junit Unit Testing in the said project, the details of which can be seen in the report
 
 Performed by:-
-- Mehul N. Ingale
-- Abhay S. Nikumbh
+- [Mehul N. Ingale](https://github.com/A3r4Xa5)
+- [Abhay S. Nikumbh](https://github.com/abhi599)
